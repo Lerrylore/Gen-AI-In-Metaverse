@@ -1,0 +1,8 @@
+Hey
+
+Thanks for downloading my Low Poly Table Tennis pack, I hope it suits your needs.
+
+To use these assets simply drag them from the prefab folder into your scene and resize them to suit your needs.
+
+If you wish to customize these assets with other colours/materials you can do so by creating a new material a dragging it into the scene and onto the prefab you are tying to change. 
+Alternatively you can edit the matierals I have already made, which can be found the materials folder.
