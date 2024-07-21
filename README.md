@@ -20,7 +20,7 @@ To run the project on your machine, you need to have **Unity3D** installed on yo
 4. Or you can try the application directly from the editor plugging you VR device in.
 
 ## Video Demonstration
-[![Video Demonstration](https://img.youtube.com/vi/9Re3KY5ppKw/0.jpg)](https://www.youtube.com/9Re3KY5ppKw)
+[![Video Demonstration](https://img.youtube.com/vi/9Re3KY5ppKw/0.jpg)](https://youtu.be/9Re3KY5ppKw)
 
 
 ## Credits
